@@ -1,0 +1,13 @@
+Yujin Yoshimura
+Matrix 1
+INVALID
+
+Matrix 2
+Degree of:
+Vertex A: 3
+Vertex B: 2
+Vertex C: 2
+Vertex D: 2
+Vertex E: 3
+Number of edges: 6
+
